@@ -1,4 +1,5 @@
 import unittest
+import string
 from password.generator_factory import PasswordGeneratorFactory
 
 class TestPasswordGenerators(unittest.TestCase):
